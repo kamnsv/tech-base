@@ -8,5 +8,5 @@
 
 0. [Базы данных](/Database.md)
 0. [Операционные системы](/OS.md)
-0. [Информационная безопасность](/Information_Security.md)
+0. [Информационная безопасность](/Information%20Security.md)
 0. [Сетевые технологии](/Network%20technologies.md)
