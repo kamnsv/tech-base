@@ -27,10 +27,10 @@
 
 2. [MSSQL](#mssql)
 3. [MySQL](#mysql)
-  - [MyISAM](#myisam)
-  - [Maria](#mari)
-  - [InnoDB](#innodb)
-0. [PostgreSQL](#postgresql)
+* [MyISAM](#myisam)
+* [Maria](#mari)
+* [InnoDB](#innodb)
+4. [PostgreSQL](#postgresql)
   
   
 ### Текстовые
