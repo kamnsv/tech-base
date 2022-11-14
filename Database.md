@@ -25,12 +25,12 @@
 
 [SQL Базы данных](#sql-базы-данных)
 
-2. [MSSQL](#mssql)
-3. [MySQL](#mysql)
-* [MyISAM](#myisam)
-* [Maria](#mari)
-* [InnoDB](#innodb)
-4. [PostgreSQL](#postgresql)
+1. [MSSQL](#mssql)
+0. [MySQL](#mysql)
+  * [MyISAM](#myisam)
+  * [Maria](#mari)
+  * [InnoDB](#innodb)
+0. [PostgreSQL](#postgresql)
   
   
 ### Текстовые
