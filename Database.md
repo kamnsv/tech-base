@@ -26,11 +26,11 @@
 [SQL Базы данных](#sql-базы-данных)
 
 1. [MSSQL](#mssql)
-0. [MySQL](#mysql)
+2. [MySQL](#mysql)
   * [MyISAM](#myisam)
-  * [Maria](#mari)
+  * [Maria](#maria)
   * [InnoDB](#innodb)
-0. [PostgreSQL](#postgresql)
+3. [PostgreSQL](#postgresql)
   
   
 ### Текстовые
